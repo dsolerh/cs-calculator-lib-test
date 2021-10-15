@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace calculator_lib_test
+namespace cs_calculator_lib_test
 {
     public class UnitTest1
     {

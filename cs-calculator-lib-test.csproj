@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>calculator_lib_test</RootNamespace>
+    <RootNamespace>cs_calculator_lib_test</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
